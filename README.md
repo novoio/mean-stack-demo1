@@ -1,6 +1,7 @@
-# Simple Web App by MEAN Stack
+# Simple AngularJS Web App by MEAN Stack
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
+This is a simple web application for loading posts from a backend endpoint `/api/posts`.
+The project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
 
 ## Install
 1. Download or clone this repo.
@@ -9,6 +10,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 3. Run either of the commands:
     * `$ npm run build`
     * `$ yarn start:dev`
+4. Navigate to `http://localhost:3000`.
+
+## Screenshot
+![Screenshot](sample.png)
 
 ## Development server
 
